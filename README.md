@@ -10,7 +10,7 @@ Repo: https://github.com/ucsb-cs156-s23/jpa02-MaximillianStewart
 
 
 
-Deployed at: https://jpa02-mstewart.herokuapp.com
+Deployed at: https://jpa02h-mstewart.herokuapp.com
 
 
 # About this repo
